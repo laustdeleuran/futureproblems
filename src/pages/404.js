@@ -10,7 +10,7 @@ const NotFoundPage = () => (
 		<h1>SMELBORP</h1>
 		<p>You're lost. Resistance is mandatory.</p>
 		<p>
-			<Link to="/">Go back to the problems</Link>
+			<Link to="/">Back to the problems</Link>
 		</p>
 	</Page>
 );
