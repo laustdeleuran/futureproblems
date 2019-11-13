@@ -25,12 +25,18 @@ const Project = () => (
 		</p>
 		<h2>Art projects</h2>
 		<ul>
-			<li>
-				<Link to="/multiverse/mobius-strip-club">The Mobius Strip Club</Link>
-			</li>
+			<li>Audioverse Dimension Warp</li>
 			<li>
 				<Link to="/multiverse/ingesting-infinity">Ingesting Infinity</Link>
 			</li>
+			<li>Kaleidoscopic Portal Adventure</li>
+			<li>Playa Possibility Playground</li>
+			<li>Silly Little Stage</li>
+			<li>
+				<Link to="/multiverse/mobius-strip-club">The Mobius Strip Club</Link>
+			</li>
+			<li>The Lamp</li>
+			<li>What to Expect When Expecting</li>
 		</ul>
 		<p>
 			<Link to="/">Back to the problems</Link>
