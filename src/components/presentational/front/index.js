@@ -34,7 +34,7 @@ const REACT_PLAYER_CONFIG = {
 const Front = ({ children }) => {
 	const data = useStaticQuery(graphql`
 		query {
-			placeholderImage: file(relativePath: { eq: "video-mask.png" }) {
+			maskImage: file(relativePath: { eq: "video-mask.png" }) {
 				childImageSharp {
 					fluid(maxWidth: 1400) {
 						...GatsbyImageSharpFluid
@@ -48,7 +48,7 @@ const Front = ({ children }) => {
 			<div className="front">
 				<figure className="front__gfx" title="Future Problems">
 					<div className="front__gfx-mask">
-						<Img fluid={data.placeholderImage.childImageSharp.fluid} />
+						<Img fluid={data.maskImage.childImageSharp.fluid} />
 					</div>
 					<ReactPlayer
 						className="front__gfx-video"

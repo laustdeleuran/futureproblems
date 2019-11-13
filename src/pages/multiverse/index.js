@@ -16,12 +16,12 @@ const Project = () => (
 			creatives who have over 100 combined years of Black Rock City
 			participation fueling their creativity. They’ve contributed to Love Beets,
 			Suburbia, and Black Rock Gladiators! Members have also been the driving
-			forces behind Spoonlandia, Desert Dwellers, Cleu Camp, and many more.
+			forces behind Spoonlandia, Dessert Dwellers, Cleu Camp, and many more.
 			They’ve helped bring the art car The Beethen to the playa, as well as art
 			pieces such as the Lillium Gigantum, the A-MAZE-ING Cleu, The Cleu
 			Labyrinth, AND MORE. Their members also count among the ranks of Rangers,
-			Temple Guardians, Burn Perimeter, Greeters, Lamp Lighters, Post Office,
-			and Box Office.{' '}
+			Conclave, Temple Guardians, Burn Perimeter, Greeters, Lamp Lighters, Post
+			Office, and Box Office.{' '}
 		</p>
 		<h2>Art projects</h2>
 		<ul>
