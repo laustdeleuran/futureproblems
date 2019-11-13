@@ -49,7 +49,7 @@ const Front = ({ children }) => {
 			<div className="front">
 				<figure className="front__gfx" title="Future Problems">
 					<div className="front__gfx-mask">
-						<Img fluid={data.maskImage.childImageSharp.fluid} />
+						<Img fadeIn={false} fluid={data.maskImage.childImageSharp.fluid} />
 					</div>
 					<ReactPlayer
 						className="front__gfx-video"

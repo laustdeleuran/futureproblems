@@ -24,6 +24,7 @@ const Page = ({ children }) => {
 			<article className="page">
 				<Link to="/" className="page__logo">
 					<Img
+						fadeIn={false}
 						fluid={data.logo.childImageSharp.fluid}
 						title="Future Problems"
 					/>
