@@ -56,9 +56,11 @@ const Front = ({ children }) => {
 						controls={false}
 						height={null}
 						loop={true}
+						muted={true}
 						playing={true}
 						playsinline={true}
 						url="https://vimeo.com/372812530"
+						volume={0}
 						width={null}
 					/>
 					{children}

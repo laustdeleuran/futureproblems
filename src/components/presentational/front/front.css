@@ -2,7 +2,6 @@
 	align-items: center;
 	display: flex;
 	flex-direction: column;
-	height: 100vh;
 	justify-content: space-around;
 }
 
@@ -11,7 +10,11 @@
 	width: 80vw;
 	height: 80vw;
 
-	position: relative;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+
+	transform: translate(-50%, -50%);
 }
 
 .front__gfx-mask,
@@ -23,6 +26,10 @@
 	position: absolute;
 	top: 0;
 	left: 0;
+}
+
+.front__gfx-video {
+	transform: scale(0.999);
 }
 
 .front__gfx-mask {
