@@ -58,7 +58,7 @@ const Project = () => (
 			light, but there’s no way off of this Möbius strip we call life.
 		</p>
 		<p>
-			<Link to="/multiverse/">Go back to the projects</Link>
+			<Link to="/multiverse/">Back to the projects</Link>
 		</p>
 	</Page>
 );

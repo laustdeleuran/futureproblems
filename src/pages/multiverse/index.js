@@ -33,7 +33,7 @@ const Project = () => (
 			</li>
 		</ul>
 		<p>
-			<Link to="/">Go back to the problems</Link>
+			<Link to="/">Back to the problems</Link>
 		</p>
 	</Page>
 );

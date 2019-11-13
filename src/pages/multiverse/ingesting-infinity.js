@@ -53,7 +53,7 @@ const Project = () => {
 				<Img fluid={data.sketch.childImageSharp.fluid} />
 			</p>
 			<p>
-				<Link to="/multiverse/">Go back to the projects</Link>
+				<Link to="/multiverse/">Back to the projects</Link>
 			</p>
 		</Page>
 	);

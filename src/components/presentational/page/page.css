@@ -11,6 +11,20 @@
 	background-size: 100% 26px; */
 }
 
+.page__logo {
+	max-width: 100px;
+}
+
+@media screen and (min-width: 55em) {
+	.page__logo {
+		width: 150px;
+		max-width: none;
+		position: fixed;
+		top: 1.6em;
+		right: 1.6em;
+	}
+}
+
 .page h1 {
 	font-size: 33px;
 	line-height: 52px;
