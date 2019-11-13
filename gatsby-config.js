@@ -7,6 +7,7 @@ module.exports = {
 		image: 'src/images/smelborp-og.png',
 	},
 	plugins: [
+		'gatsby-plugin-htaccess',
 		'gatsby-plugin-react-helmet',
 		{
 			resolve: 'gatsby-source-filesystem',
