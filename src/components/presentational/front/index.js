@@ -5,6 +5,7 @@ import ReactPlayer from 'react-player';
 import { useStaticQuery, graphql } from 'gatsby';
 
 import './front.css';
+import video from '../../../assets/erutufsmelborp.mp4';
 import App from '../app';
 
 /**
@@ -59,7 +60,7 @@ const Front = ({ children }) => {
 						muted={true}
 						playing={true}
 						playsinline={true}
-						url="https://vimeo.com/372812530"
+						url={video}
 						volume={0}
 						width={null}
 					/>
