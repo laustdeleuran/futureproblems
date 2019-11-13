@@ -23,7 +23,10 @@ const Page = ({ children }) => {
 		<App>
 			<article className="page">
 				<Link to="/" className="page__logo">
-					<Img fluid={data.logo.childImageSharp.fluid} />
+					<Img
+						fluid={data.logo.childImageSharp.fluid}
+						title="Future Problems"
+					/>
 				</Link>
 				{children}
 			</article>
