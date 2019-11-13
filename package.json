@@ -13,10 +13,12 @@
     "gatsby-plugin-sharp": "^2.2.36",
     "gatsby-source-filesystem": "^2.1.35",
     "gatsby-transformer-sharp": "^2.3.2",
+    "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "react-player": "^1.14.1"
   },
   "devDependencies": {
     "prettier": "^1.19.1"

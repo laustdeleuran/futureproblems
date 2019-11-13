@@ -1,0 +1,50 @@
+.front {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	justify-content: space-around;
+}
+
+.front__gfx {
+	margin: 0 auto;
+	width: 80vw;
+	height: 80vw;
+
+	position: relative;
+}
+
+.front__gfx-mask,
+.front__gfx-video,
+.front__gfx > a {
+	width: 100%;
+	height: 100%;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.front__gfx-mask {
+	z-index: 1;
+}
+
+.front__gfx > a {
+	overflow: hidden;
+
+	text-indent: 100%;
+	white-space: nowrap;
+
+	z-index: 2;
+}
+
+.front__gfx-video {
+	background: black;
+}
+
+@media screen and (min-aspect-ratio: 1/1) {
+	.front__gfx {
+		width: 80vh;
+		height: 80vh;
+	}
+}

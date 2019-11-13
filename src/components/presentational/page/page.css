@@ -1,0 +1,60 @@
+.page {
+	font: 16px;
+	line-height: 1.6;
+	padding: 1.6em;
+	max-width: 40em;
+	/* background: linear-gradient(
+		to bottom,
+		rgba(32, 160, 255, 0.35) 1px,
+		transparent 1px
+	);
+	background-size: 100% 26px; */
+}
+
+.page h1 {
+	font-size: 33px;
+	line-height: 52px;
+	margin: 0 0 11px;
+	padding: 15px 0 0;
+}
+
+.page h2 {
+	font-size: 28px;
+	line-height: 52px;
+	margin: 0 0 10px;
+	padding: 16px 0 0;
+}
+
+.page h3 {
+	font-size: 23px;
+	line-height: 26px;
+	margin: 0 0 21px;
+	padding: 5px 0 0;
+}
+
+.page h4 {
+	font-size: 19px;
+	line-height: 26px;
+	margin: 0 0 19px;
+	padding: 7px 0 0;
+}
+
+.page p,
+.page ul {
+	font-size: 16px;
+	line-height: 26px;
+	margin: 0 0 18px;
+	padding: 8px 0 0;
+}
+
+.page li {
+	padding: 0;
+	margin: 0 0 0 1.6em;
+}
+
+.page h1,
+.page h2,
+.page h3,
+.page h4 {
+	font-weight: bold;
+}
