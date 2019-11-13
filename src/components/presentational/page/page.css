@@ -12,6 +12,7 @@
 }
 
 .page__logo {
+	display: block;
 	max-width: 100px;
 }
 
