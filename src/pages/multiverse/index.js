@@ -18,10 +18,11 @@ const Project = () => (
 			Suburbia, and Black Rock Gladiators! Members have also been the driving
 			forces behind Spoonlandia, Dessert Dwellers, Cleu Camp, and many more.
 			They’ve helped bring the art cars The Beethen and The Turkey to the playa,
-			as well as art pieces such as the Lillium Gigantum, the A-MAZE-ING Cleu,
-			The Cleu Labyrinth, AND MORE. Their members also count among the ranks of
-			Rangers, Conclave, Temple Guardians, Burn Perimeter, Greeters, Lamp
-			Lighters, Post Office, and Box Office.{' '}
+			as well as art pieces such as the Tree of Time, Writer's Block, Rhythmoop,
+			Temple of Kulkukan, Her Secret Garden, the Lillium Gigantum, the
+			A-MAZE-ING Cleu, The Cleu Labyrinth, AND MORE. Their members also count
+			among the ranks of Rangers, Conclave, Temple Guardians, Burn Perimeter,
+			Greeters, Lamp Lighters, Post Office, and Box Office.{' '}
 		</p>
 		<h2>Art Projects</h2>
 		<ul>
@@ -37,7 +38,9 @@ const Project = () => (
 			<li>
 				<Link to="/multiverse/mobius-strip-club">The Mobius Strip Club</Link>
 			</li>
-			<li>The Lamp</li>
+			<li>
+				<Link to="/multiverse/the-lamp">The Lamp</Link>
+			</li>
 			<li>
 				<Link to="/multiverse/whattoexpect">What To Expect When Expecting</Link>
 			</li>
