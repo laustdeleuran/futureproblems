@@ -26,31 +26,49 @@ const Project = () => {
 			/>
 			<h1>Ingesting Infinity</h1>
 			<p>
-				Rising from the ground, a stalk supports an intricately beaded,
-				romanesco vegetable nestled in brassica leaves. Inside the romanesco is
-				a soft, comfortable space for a single individual to enter, observe, and
-				contemplate the fractal beauty of this vegetable’s insight into the
-				nature of the universe.
+				An intricately beaded, oversized romanesco vegetable grows on the playa
+				providing a sizable visual and interactive experience of nature’s golden
+				ratio - the Fibonacci sequence manifest in an ordinary garden vegetable.
 			</p>
 			<h2>The Installation</h2>
 			<p>
 				<Img fluid={data.sketch.childImageSharp.fluid} />
 			</p>
 			<p>
-				This structure will be an oversized depiction of a romanesco vegetable
-				like it grows in our gardens - a coned, fractal dome nestled in large
-				brassica leaves, resting upon a thick, supportive stalk. The fractal
-				spiral pattern of the vegetable flesh will be achieved with acrylic
-				beads of varying sizes, shapes, and colors twisted and bound together by
-				wire. The fractal dome will be supported by a thick stalk and base
-				platform made from wood. The leaves will be made from beads, fabric and
-				thick wire and extend beyond the vegetable body. The surface of the
-				stalk will be covered in beads to achieve textural cohesion. An opening
-				near the stalk will lead to a comfortable, cushy space in the center of
-				the vegetable where a single human can fit and admire the beaded fractal
-				composition of the vegetable from the inside out. Sunlight will play off
-				the beads during the day and internal lights will illuminate the
-				fractals from within, during the night.
+				From afar, a romanesco vegetable illuminates against the ‘barren’ playa
+				backdrop. Up close, participants admire the intricate beading and
+				detailed fractal patterns of the veggie flesh. This oversized romanesco
+				grows up from a large wood platform. Resting on a stalk of wood and
+				steel, the beaded romanesco is nestled in large brassica leaves made
+				from steel, fabric, and beads that provide a shaded sanctuary for the
+				platform underneath. The fractal dome of the veggie flesh is made from
+				intricately wired beads of different shapes, sizes and colors. The
+				fractal dome is internally supported by 5 steel arms that form a
+				circular armature. A hole near the stalk provides entryentrance to the
+				center of the romanesco where 1 participant can sit in a comfy space and
+				admire nature’s golden ratio from within.
+			</p>
+			<h2>Mission &amp; Philosophy</h2>
+			<p>
+				Our mission is to create interactive art that viewers can get up-close
+				and personal with, relate to, and engage with physically and mentally.
+				We want viewers to walk around it, lay underneath, touch it, get inside,
+				and not only contemplate the philosophical questions that arise, but
+				imagine how it was created and how they might do it differently. This
+				piece is not behind a glass case, but accessible and textural. It comes
+				to life with the personal and shared experiences viewers have with it.{' '}
+			</p>
+			<p>
+				Installing an intricately-beaded and oversized romanesco on the playa,
+				we hope to create something beautiful that also inspires challenging
+				questions around: food politics, (how does privilege can vegetable
+				familiarity be indicative of privilege? who has access to/eaten
+				romanescos? what does it taste like? What does having a ‘fresh’
+				vegetable represented on the dusty, dry playa spark for you?); the
+				beauty of ordinary objects; what it means to feel small; roll reversal
+				(being ingested by something we ingest); existential meaning and how we
+				relate as humans to the phenomenon of Fibonacci’s sequence, the golden
+				ratio, or the divine proportion.
 			</p>
 			<p>
 				<Link to="/multiverse/">Back to the projects</Link>
