@@ -32,7 +32,7 @@ const Project = () => {
 				dancing pole. The art burst to life with music and lights when
 				participants begin to perform.
 			</p>
-			<h2>Physical Description</h2>
+			<h2>The Installation</h2>
 			<p>
 				<Img fluid={data.sketch.childImageSharp.fluid} />
 			</p>
@@ -49,32 +49,30 @@ const Project = () => {
 				by motion activated, disco lights mounted along the edge of the outer
 				loop.
 			</p>
-			<h2>Mission &amp; philosophy</h2>
+			<h2>Mission &amp; Philosophy</h2>
 			<p>
 				Möbius Strip Club is a space defined by interaction with its visitors.
 				Similar to life, it can be a very dark experience if left isolated and
 				alone. And as with life, when we play and express ourselves, a symphony
-				of lights and music bursts into existence. The energy they put in is
+				of lights and music bursts into existence. The energy put in is
 				amplified and reflected back to remind us how beautiful life is when we
-				participate to our fullest, in itself creating a beautiful new loop of
-				creativity.
+				participate to our fullest.
 			</p>
 			<p>
 				If you travel along the surface of a Möbius Strip, you’ll eventually see
 				both sides of everything, but you’ll never reach the end. Nothing stays
 				the same and eventually everything happens, over and over, whether you
-				like it or not, in this eternal Möbius Strip Club we call life. Right
-				and wrong, cause and effect, the sacred and the profane are all snakes
-				biting their own tails.… Oon a long enough timeline, even the most polar
-				of opposites reveal themselves to be two sides of the same story.
+				like it or not, in the eternal Möbius Strip Club. Right and wrong, cause
+				and effect, the sacred and the profane are all snakes biting their own
+				tails. On a long enough timeline, even the most polar of opposites
+				reveal themselves to be two sides of the same story.
 			</p>
 			<p>
 				Through this art piece, we hope to remind people that life is an
 				eternal, interactive experience. Just as a stage is but a series of
-				flattened boards until the performance begins, life isn’t all asthe
-				amazing as it can be until we start to play. You can stand in the dark
-				or play in the light, but there’s no way off of this Möbius strip we
-				call life.
+				flattened boards until the performance begins, life isn’t as amazing as
+				it can be until we start to play. You can stand in the dark or play in
+				the light, but there’s no way off of this Möbius strip we call life.
 			</p>
 			<p>
 				<Link to="/multiverse/">Back to the projects</Link>

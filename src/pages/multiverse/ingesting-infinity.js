@@ -32,7 +32,10 @@ const Project = () => {
 				contemplate the fractal beauty of this vegetable’s insight into the
 				nature of the universe.
 			</p>
-			<h2>Physical Description</h2>
+			<h2>The Installation</h2>
+			<p>
+				<Img fluid={data.sketch.childImageSharp.fluid} />
+			</p>
 			<p>
 				This structure will be an oversized depiction of a romanesco vegetable
 				like it grows in our gardens - a coned, fractal dome nestled in large
@@ -48,9 +51,6 @@ const Project = () => {
 				composition of the vegetable from the inside out. Sunlight will play off
 				the beads during the day and internal lights will illuminate the
 				fractals from within, during the night.
-			</p>
-			<p>
-				<Img fluid={data.sketch.childImageSharp.fluid} />
 			</p>
 			<p>
 				<Link to="/multiverse/">Back to the projects</Link>

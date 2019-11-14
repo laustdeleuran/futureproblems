@@ -17,26 +17,30 @@ const Project = () => (
 			participation fueling their creativity. They’ve contributed to Love Beets,
 			Suburbia, and Black Rock Gladiators! Members have also been the driving
 			forces behind Spoonlandia, Dessert Dwellers, Cleu Camp, and many more.
-			They’ve helped bring the art car The Beethen to the playa, as well as art
-			pieces such as the Lillium Gigantum, the A-MAZE-ING Cleu, The Cleu
-			Labyrinth, AND MORE. Their members also count among the ranks of Rangers,
-			Conclave, Temple Guardians, Burn Perimeter, Greeters, Lamp Lighters, Post
-			Office, and Box Office.{' '}
+			They’ve helped bring the art cars The Beethen and The Turkey to the playa,
+			as well as art pieces such as the Lillium Gigantum, the A-MAZE-ING Cleu,
+			The Cleu Labyrinth, AND MORE. Their members also count among the ranks of
+			Rangers, Conclave, Temple Guardians, Burn Perimeter, Greeters, Lamp
+			Lighters, Post Office, and Box Office.{' '}
 		</p>
-		<h2>Art projects</h2>
+		<h2>Art Projects</h2>
 		<ul>
 			<li>Audioverse Dimension Warp</li>
 			<li>
+				<Link to="/multiverse/hingesoffreewill">Hinges of Free Will</Link>
+			</li>
+			<li>
 				<Link to="/multiverse/ingesting-infinity">Ingesting Infinity</Link>
 			</li>
-			<li>Kaleidoscopic Portal Adventure</li>
 			<li>Playa Possibility Playground</li>
 			<li>Silly Little Stage</li>
 			<li>
 				<Link to="/multiverse/mobius-strip-club">The Mobius Strip Club</Link>
 			</li>
 			<li>The Lamp</li>
-			<li>What to Expect When Expecting</li>
+			<li>
+				<Link to="/multiverse/whattoexpect">What To Expect When Expecting</Link>
+			</li>
 		</ul>
 		<p>
 			<Link to="/">Back to the problems</Link>
