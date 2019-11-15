@@ -1,10 +1,23 @@
+import Img from 'gatsby-image';
 import React from 'react';
 import { Link } from 'gatsby';
+import { useStaticQuery, graphql } from 'gatsby';
 
 import Page from '../../components/presentational/page';
 import SEO from '../../components/logic/seo';
 
 const Project = () => {
+	const data = useStaticQuery(graphql`
+		query {
+			sketch: file(relativePath: { eq: "hinges.jpg" }) {
+				childImageSharp {
+					fluid(maxWidth: 700) {
+						...GatsbyImageSharpFluid
+					}
+				}
+			}
+		}
+	`);
 	return (
 		<Page>
 			<SEO title="Hinges of Free Will" description="" />
@@ -16,6 +29,9 @@ const Project = () => {
 				illuminate this fascinating part of our realities.
 			</p>
 			<h2>The Installation</h2>
+			<p>
+				<Img fluid={data.sketch.childImageSharp.fluid} />
+			</p>
 			<p>
 				The installation will be a series of doorways. They will be stand alone
 				units as portals to pass through. From a birds eye view, the
