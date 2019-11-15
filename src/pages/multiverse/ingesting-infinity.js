@@ -44,8 +44,8 @@ const Project = () => {
 				platform underneath. The fractal dome of the veggie flesh is made from
 				intricately wired beads of different shapes, sizes and colors. The
 				fractal dome is internally supported by 5 steel arms that form a
-				circular armature. A hole near the stalk provides entryentrance to the
-				center of the romanesco where 1 participant can sit in a comfy space and
+				circular armature. A hole near the stalk provides entry to the center of
+				the romanesco where 1 participant can sit in an intimate space and
 				admire nature’s golden ratio from within.
 			</p>
 			<h2>Mission &amp; Philosophy</h2>
@@ -56,19 +56,24 @@ const Project = () => {
 				and not only contemplate the philosophical questions that arise, but
 				imagine how it was created and how they might do it differently. This
 				piece is not behind a glass case, but accessible and textural. It comes
-				to life with the personal and shared experiences viewers have with it.{' '}
+				to life with the personal and shared experiences viewers have with it.
 			</p>
 			<p>
 				Installing an intricately-beaded and oversized romanesco on the playa,
-				we hope to create something beautiful that also inspires challenging
-				questions around: food politics, (how does privilege can vegetable
-				familiarity be indicative of privilege? who has access to/eaten
-				romanescos? what does it taste like? What does having a ‘fresh’
-				vegetable represented on the dusty, dry playa spark for you?); the
-				beauty of ordinary objects; what it means to feel small; roll reversal
-				(being ingested by something we ingest); existential meaning and how we
-				relate as humans to the phenomenon of Fibonacci’s sequence, the golden
-				ratio, or the divine proportion.
+				we hope to create a sizable oasis of nature’s Fibonacci sequence, aka
+				the golden ratio or divine proportion. We want to magnify and physically
+				illustrate the mathematical beauty of nature’s building blocks,
+				evolutionary process, and foundation of our universe in an object we
+				normally take for granted and think superficially about. Additionally,
+				we aim to create something visually beautiful that also inspires
+				challenging questions around how we relate to food, food politics,
+				privilege, and the inequitable structure of our social system - what is
+				the role of privilege in eating vegetables? does the viewer recognize
+				romanesco? who has regular access to this vegetable? When we look at the
+				romanesco’s fractal patterning, we are invited to contemplate the scale
+				of the golden spiral - where do we see it around us? From the unfolding
+				fern to spiral galaxies, this pattern is a building block of our
+				universe.
 			</p>
 			<p>
 				<Link to="/multiverse/">Back to the projects</Link>

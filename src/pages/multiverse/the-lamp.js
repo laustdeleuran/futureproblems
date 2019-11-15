@@ -26,11 +26,11 @@ const Project = () => {
 			/>
 			<h1>The Lamp</h1>
 			<p>
-				A burnable Lamp structure that sits on the playa with the intention of
-				being burned. The lamp represents light and can take on a number of
-				symbolic representations. The central idea is that fire is the brightest
-				light, especially in a world that is becoming more and more illuminated
-				by neon, screens, leds, and others.
+				A Lamp structure constructed with the intention of being burned. The
+				lamp represents light and can take on a number of symbolic
+				representations. The central idea is that fire is the brightest light,
+				especially in a world that is becoming increasingly illuminated by neon,
+				screens, leds, and others.
 			</p>
 			<h2>The Installation</h2>
 			<p>
@@ -38,11 +38,11 @@ const Project = () => {
 			</p>
 			<p>
 				The burnable lamp will be a playa art installation. The vision of the
-				lamp is to be constructed of largely reclaimed lumber, with a base that
+				lamp is to be constructed of mostly reclaimed lumber, with a base that
 				can be entered by participants. The lamp will contain a shade, like a
-				house lamp with a geodesic cut-out pattern. Cut outs of the negative
+				house lamp, with a geodesic cut-out pattern. Cut outs of the negative
 				shapes of the shade will be used as ornament throughout the structure.
-				Within the lamp’s base, which people can enter, will be a ladder
+				Within the lamp's base, which people can enter, will be a ladder
 				climbing up the center to a platform that lies on top of the geodesic
 				shade. A pull chain will be installed at the base so people can interact
 				with the installation by pulling it. When the chain is pulled it will
@@ -72,6 +72,11 @@ const Project = () => {
 				through our most natural form of light. The beauty of this piece for me
 				is the potential meanings that it can take on for people, including
 				myself, throughout the process of its becoming.
+			</p>
+			<p>
+				Seeing a common object in a new way (on fire) is something that burning
+				man can offer. The lamp as a symbol of light will illuminate new
+				discoveries and figuring out what those are will be the fun part.
 			</p>
 			<p>
 				Seeing a common object in a new way (on fire) is something that burning

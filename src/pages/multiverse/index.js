@@ -26,20 +26,20 @@ const Project = () => (
 		</p>
 		<h2>Art Projects</h2>
 		<ul>
-			<li>Audioverse Dimension Warp</li>
 			<li>
 				<Link to="/multiverse/hingesoffreewill">Hinges of Free Will</Link>
 			</li>
 			<li>
 				<Link to="/multiverse/ingesting-infinity">Ingesting Infinity</Link>
 			</li>
-			<li>Playa Possibility Playground</li>
-			<li>Silly Little Stage</li>
 			<li>
-				<Link to="/multiverse/mobius-strip-club">The Mobius Strip Club</Link>
+				<Link to="/multiverse/sillylittlestage">Silly Little Stage</Link>
 			</li>
 			<li>
 				<Link to="/multiverse/the-lamp">The Lamp</Link>
+			</li>
+			<li>
+				<Link to="/multiverse/mobius-strip-club">The Mobius Strip Club</Link>
 			</li>
 			<li>
 				<Link to="/multiverse/whattoexpect">What To Expect When Expecting</Link>
