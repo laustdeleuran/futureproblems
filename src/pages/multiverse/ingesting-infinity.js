@@ -16,6 +16,13 @@ const Project = () => {
 					}
 				}
 			}
+			sketchTwo: file(relativePath: { eq: "ingesting-infinity-2.jpg" }) {
+				childImageSharp {
+					fluid(maxWidth: 700) {
+						...GatsbyImageSharpFluid
+					}
+				}
+			}
 		}
 	`);
 	return (
@@ -33,6 +40,9 @@ const Project = () => {
 			<h2>The Installation</h2>
 			<p>
 				<Img fluid={data.sketch.childImageSharp.fluid} />
+			</p>
+			<p>
+				<Img fluid={data.sketchTwo.childImageSharp.fluid} />
 			</p>
 			<p>
 				From afar, a romanesco vegetable illuminates against the ‘barren’ playa
