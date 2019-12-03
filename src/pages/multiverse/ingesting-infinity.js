@@ -23,6 +23,13 @@ const Project = () => {
 					}
 				}
 			}
+			render: file(relativePath: { eq: "brassica-render.jpg" }) {
+				childImageSharp {
+					fluid(maxWidth: 700) {
+						...GatsbyImageSharpFluid
+					}
+				}
+			}
 		}
 	`);
 	return (
@@ -57,6 +64,9 @@ const Project = () => {
 				circular armature. A hole near the stalk provides entry to the center of
 				the romanesco where 1 participant can sit in an intimate space and
 				admire nature’s golden ratio from within.
+			</p>
+			<p>
+				<Img fluid={data.render.childImageSharp.fluid} />
 			</p>
 			<h2>Mission &amp; Philosophy</h2>
 			<p>
