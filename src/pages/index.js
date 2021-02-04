@@ -7,7 +7,7 @@ import SEO from '../components/logic/seo';
 const IndexPage = () => (
 	<Front>
 		<SEO title="Home" />
-		<Link to="/multiverse" title="Art projects">
+		<Link to="/about" title="Art projects">
 			See the art projects
 		</Link>
 	</Front>

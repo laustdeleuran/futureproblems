@@ -20,7 +20,7 @@ const Project = () => {
 	`);
 	return (
 		<Page>
-			<SEO title="Hinges of Free Will" description="" />
+			<SEO title="Hinges of Free Will" description="Hinges of Free Will is an opportunity to explore the seemingly infinite choices that make up our experience we call existence." />
 			<h1>Hinges of Free Will</h1>
 			<p>
 				Hinges of Free Will is an opportunity to explore the seemingly infinite
@@ -41,14 +41,14 @@ const Project = () => {
 				alone pieces. The central doorway is a revolving door. The supporting
 				doors will guide you inward and outward from the center point. The
 				doorways will also have small placards of choices for consideration as
-				they pass through to the other side.{' '}
+				they pass through to the other side.
 			</p>
 			<h2>Mission &amp; Philosophy</h2>
 			<p>
 				This installation encourages participation in exploring the choices and
 				interacting with 100% of the objects. The participant can use the open
 				doorways to physically frame their experience of the surrounding desert
-				and BRC, or to allow for individual contemplation.{' '}
+				and BRC, or to allow for individual contemplation.
 			</p>
 			<p>
 				This expression is meant to provide participants with an opportunity for

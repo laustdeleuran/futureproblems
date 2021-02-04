@@ -14,17 +14,17 @@ const Project = () => (
 		<p>
 			Future Problems is a Portland-based collective of artists, builders, and
 			creatives who have over 100 combined years of Black Rock City
-			participation fueling their creativity. They’ve contributed to Love Beets,
+			participation fueling our creativity. We’ve contributed to Love Beets,
 			Suburbia, and Black Rock Gladiators! Members have also been the driving
 			forces behind Spoonlandia, Dessert Dwellers, Cleu Camp, and many more.
-			They’ve helped bring the art cars The Beethen and The Turkey to the playa,
+			We’ve helped bring the art cars The Beethen and The Turkey to the playa,
 			as well as art pieces such as the Tree of Time, Writer's Block, Rhythmoop,
 			Temple of Kulkukan, Her Secret Garden, the Lillium Gigantum, the
-			A-MAZE-ING Cleu, The Cleu Labyrinth, AND MORE. Their members also count
+			A-MAZE-ING Cleu, The Cleu Labyrinth, AND MORE. Our members also count
 			among the ranks of Rangers, Conclave, Temple Guardians, Burn Perimeter,
-			Greeters, Lamp Lighters, Post Office, and Box Office.{' '}
+			Greeters, Lamp Lighters, Post Office, and Box Office.
 		</p>
-		<h2>Art Projects</h2>
+		<h2>Multiverse – Art Projects</h2>
 		<ul>
 			<li>
 				<Link to="/multiverse/hingesoffreewill">Hinges of Free Will</Link>
@@ -46,7 +46,7 @@ const Project = () => (
 			</li>
 		</ul>
 		<p>
-			<Link to="/">Back to the problems</Link>
+			<Link to="/">Back to the art</Link>
 		</p>
 	</Page>
 );

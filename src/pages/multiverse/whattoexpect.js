@@ -47,7 +47,7 @@ const Project = () => {
 				in this new shape in the mirrors, while being broken by the surrounding
 				scene on the playa. Each cast is transformed to represent a particular
 				climate issue that we face- rising sea levels, forest fires, etc, using
-				collage.{' '}
+				collage.
 			</p>
 			<h2>Mission &amp; Philosophy</h2>
 			<p>
